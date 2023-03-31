@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefreshFlangeConnections", "RefreshFlangeConnections\RefreshFlangeConnections.csproj", "{0CF67AAD-B71F-4154-8D4A-551835879A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF67AAD-B71F-4154-8D4A-551835879A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF67AAD-B71F-4154-8D4A-551835879A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF67AAD-B71F-4154-8D4A-551835879A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF67AAD-B71F-4154-8D4A-551835879A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7094F1BE-8984-4DDA-915D-C57B98D49EC4}
+	EndGlobalSection
+EndGlobal
